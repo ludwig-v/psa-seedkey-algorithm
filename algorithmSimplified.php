@@ -26,5 +26,6 @@ function getKey($seedTXT, $appKeyTXT = "0000") {
 	return str_pad(strtoupper(dechex($res)), 8, '0', STR_PAD_LEFT);
 }
 
+echo getKey("11111111", "D91C");
 
 ?>

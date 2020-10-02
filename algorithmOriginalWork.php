@@ -74,4 +74,6 @@ function getKey($seedTXT, $appKeyTXT = "0000") { // Some hideous code because PH
 	return strtoupper(str_pad(dechex($key), 4, '0', STR_PAD_LEFT).str_pad(dechex($key_), 4, '0', STR_PAD_LEFT));
 }
 
+echo getKey("11111111", "D91C");
+
 ?>
