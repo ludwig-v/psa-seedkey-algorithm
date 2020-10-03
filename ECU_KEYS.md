@@ -6,7 +6,12 @@
 |--|--|
 | NAC | D91C |
 | RCC | F107 |
-| SMEG | ADDA |
+| SMEG/RNEG | ADDA |
+
+### Autonomous Telematic Unit
+| ECU | KEY |
+|--|--|
+| BTA | DC3B |
 
 ### Instrument Panel
 | ECU | KEY |
@@ -33,8 +38,8 @@
 ### Automatic Gearbox ECU
 | ECU | KEY |
 |--|--|
-| BOITEVIT AT6 | 8086 |
-| BOITEVIT AT8 | 8962 |
+| AT6 | 8086 |
+| AL4_AT8 | 8962 |
 | EAT8 | 4854 |
 
 ### ESP ECU
@@ -50,11 +55,11 @@
 ### Parking ECU
 | ECU | KEY |
 |--|--|
-| AAS | EFCA |
-| AAS AAE2004 | 0000 |
+| AAS_UDS | EFCA |
+| AAS | 0000 |
 
 ### Amplifier ECU
 | ECU | KEY |
 |--|--|
-| AMPLI | A7D8 |
-| AMPLI AAE2004 | 0000 |
+| AMPLI_UDS | A7D8 |
+| AMPLI | 0000 |
