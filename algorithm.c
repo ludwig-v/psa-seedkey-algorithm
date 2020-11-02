@@ -1,6 +1,23 @@
-#include <inttypes.h>
+/*
+Copyright 2020, Ludwig V. <https://github.com/ludwig-v>
+Original algorithm by Wouter Bokslag & Jason F. <https://github.com/prototux>
 
-/* Full credit to Wouter Bokslag & Jason F. - https://github.com/prototux - */
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License at <http://www.gnu.org/licenses/> for
+more details.
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+*/
+
+#include <inttypes.h>
 
 // Transformation function with PSA not-so-secret sauce
 int16_t transform(uint8_t data_msb, uint8_t data_lsb, uint8_t sec[])

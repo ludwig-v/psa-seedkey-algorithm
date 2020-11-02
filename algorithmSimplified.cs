@@ -1,9 +1,26 @@
+/*
+Copyright 2020, Ludwig V. <https://github.com/ludwig-v>
+Original algorithm by Wouter Bokslag & Jason F. <https://github.com/prototux>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License at <http://www.gnu.org/licenses/> for
+more details.
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+*/
+
 using System;
 					
 public class Program
 {
-	/* Simplified version for C# based on Wouter Bokslag & Jason F. - https://github.com/prototux - work */
-
 	public static Int32 transform(int data, int[] sec) {
 		Int32 result = ((data % sec[0]) * sec[2]) - ((data / sec[0]) * sec[1]);
 		if (result < 0)
