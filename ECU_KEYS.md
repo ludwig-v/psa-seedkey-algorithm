@@ -18,6 +18,7 @@
 |--|--|
 | MATT | ECEC |
 | CIROCCO | FAFA |
+| COMBINE_UDS_EV/CIROCCO | A13C |
 
 ### BSI
 | ECU | KEY |
