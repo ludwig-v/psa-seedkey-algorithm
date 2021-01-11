@@ -1,4 +1,3 @@
-
 # ECU Keys
 
 ### Telematic Unit
@@ -18,7 +17,7 @@
 |--|--|
 | MATT | ECEC |
 | CIROCCO | FAFA |
-| COMBINE_UDS_EV/CIROCCO | A13C |
+| COMBINE_UDS_EV | A13C |
 
 ### BSI
 | ECU | KEY |
@@ -56,6 +55,7 @@
 ### Parking ECU
 | ECU | KEY |
 |--|--|
+| AAS_UDS_G6 | B6F0 |
 | AAS_UDS | EFCA |
 | AAS | 0000 |
 
@@ -64,3 +64,5 @@
 |--|--|
 | AMPLI_UDS | A7D8 |
 | AMPLI | 0000 |
+
+> ® Ludwig V. <https://github.com/ludwig-v>
