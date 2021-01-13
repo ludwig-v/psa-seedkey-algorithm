@@ -30,6 +30,7 @@
 ### Engine ECU
 | ECU | KEY |
 |--|--|
+| EDC17C10 | 1905 |
 | MD1CS003 | 1948 |
 | DCM_3.5 | 4242 |
 | MM6KP | 27F9 |
