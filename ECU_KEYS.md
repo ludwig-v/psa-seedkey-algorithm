@@ -7,6 +7,11 @@
 | RCC | F107 |
 | SMEG/RNEG | ADDA |
 
+### Screen
+| ECU | KEY |
+|--|--|
+| EMF_DGT_LVDS_BD | 16FB |
+
 ### Autonomous Telematic Unit
 | ECU | KEY |
 |--|--|
