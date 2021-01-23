@@ -22,6 +22,7 @@
 |--|--|
 | MATT | ECEC |
 | CIROCCO | FAFA |
+| COMBINE_UDS | 50A6 |
 | COMBINE_UDS_EV | A13C |
 
 ### BSI
