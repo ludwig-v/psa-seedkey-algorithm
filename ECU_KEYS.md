@@ -41,6 +41,7 @@
 | DCM_3.5 | 4242 |
 | MM6KP | 27F9 |
 | ME749 | A83F |
+| MEVD17_4_4 | BBFF |
 
 ### Automatic Gearbox ECU
 | ECU | KEY |
@@ -69,7 +70,7 @@
 ### Amplifier ECU
 | ECU | KEY |
 |--|--|
-| AMPLI_UDS | A7D8 |
+| AMPLI_AUDIO | A7D8 |
 | AMPLI | 0000 |
 
 > ® Ludwig V. <https://github.com/ludwig-v>
