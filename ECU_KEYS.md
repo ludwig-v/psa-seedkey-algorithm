@@ -37,11 +37,25 @@
 | ECU | KEY |
 |--|--|
 | EDC17C10 | 1905 |
+| EDC17C60 | 3102 |
 | MD1CS003 | 1948 |
+| DCM_3.4 | 1822 |
 | DCM_3.5 | 4242 |
+| DCM_6.1 | 4742 |
+| DCM_6.2 | 4742 |
+| DCM_7.1A | 1501 |
 | MM6KP | 27F9 |
 | ME749 | A83F |
+| VD46.1 | 4552 |
+| VD46.11 | 31A7 |
+| VD56.1 | 9395 |
+| MED17.4 | 1605 |
+| SID807 | 4341 |
 | MEVD17_4_4 | BBFF |
+| MEVD17_4_2 | 0610 |
+| IAW_6LPA.01 | 23FE |
+| IAW_6LP | 2FFE |
+| MM6LP | 22FD |
 
 ### Automatic Gearbox ECU
 | ECU | KEY |
