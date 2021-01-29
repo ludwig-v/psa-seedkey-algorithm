@@ -12,6 +12,11 @@
 |--|--|
 | EMF_DGT_LVDS_BD | 16FB |
 
+### Multifunction Camera
+| ECU | KEY |
+|--|--|
+| CVM | E2E5 |
+
 ### Autonomous Telematic Unit
 | ECU | KEY |
 |--|--|
@@ -60,6 +65,7 @@
 | IAW6LP | 2FFE |
 | MM6LPA | 23FE |
 | MM6LP | 22FD |
+| MM6LPB | 27F9 |
 | MM6KP | 27F9 |
 | J34P | 2605 |
 
@@ -79,6 +85,7 @@
 | ECU | KEY |
 |--|--|
 | GEP | 4628 |
+| DAE | BF62 |
 
 ### Parking ECU
 | ECU | KEY |
