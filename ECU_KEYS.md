@@ -42,6 +42,7 @@
 | ECU | KEY |
 |--|--|
 | EDC16C3 | 475A |
+| EDC16C34 | 475A |
 | EDC17C10 | 1905 |
 | EDC17C60 | 3102 |
 | DCM3.2 | 1822 |
@@ -54,18 +55,25 @@
 | VD46.11 | 31A7 |
 | VD56.1 | 9395 |
 | SID803 | D310 |
+| SID804 | 0500 |
+| SID805 | 0500 |
 | SID807 | 4341 |
 | MD1CS003 | 1948 |
+| ME745 | F8F3 |
+| ME747 | E45F |
 | ME749 | A83F |
 | MED17.4 | 1605 |
 | MEV17.4 | 1974 |
 | MEVD17.4.4 | BBFF |
 | MEVD17.4.2 | 0610 |
-| IAW6LPA | 23FE |
 | IAW6LP | 2FFE |
-| MM6LPA | 23FE |
+| IAW6LPA | 23FE |
+| IAW6LP1 | 26FA |
+| IAW6LP3 | 2BFC |
 | MM6LP | 22FD |
+| MM6LPA | 23FE |
 | MM6LPB | 27F9 |
+| MM6LPC | 25FC |
 | MM6KP | 27F9 |
 | J34P | 2605 |
 
@@ -75,6 +83,8 @@
 | AT6 | 8086 |
 | AL4_AT8 | 8962 |
 | EAT8 | 4854 |
+| SIM82 | 9227 |
+| GS10 | 03A5 |
 
 ### ESP ECU
 | ECU | KEY |
