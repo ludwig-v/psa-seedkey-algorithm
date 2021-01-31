@@ -90,12 +90,14 @@
 | ECU | KEY |
 |--|--|
 | ESP81 | ABFB |
+| ESP90 | 60A5 |
 
 ### Power Steering ECU
 | ECU | KEY |
 |--|--|
 | GEP | 4628 |
 | DAE | BF62 |
+| DAE_BVH2 | 2305 |
 
 ### Parking ECU
 | ECU | KEY |
