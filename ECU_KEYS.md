@@ -109,6 +109,8 @@
 | ECU | KEY |
 |--|--|
 | AAS_UDS_G6 | B6F0 |
+| AAS_UDS_G5 | D1F5 |
+| AAS_UDS_G4 | 0000 |
 | AAS_UDS | EFCA |
 | AAS | 0000 |
 
