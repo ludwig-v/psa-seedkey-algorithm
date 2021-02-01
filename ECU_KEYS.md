@@ -21,6 +21,7 @@
 | ECU | KEY |
 |--|--|
 | BTA | DC3B |
+| BTA2 | F4F4 |
 
 ### Instrument Panel
 | ECU | KEY |
