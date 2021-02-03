@@ -22,6 +22,7 @@
 |--|--|
 | BTA | DC3B |
 | BTA2 | F4F4 |
+| BTA3S | DC3B |
 
 ### Instrument Panel
 | ECU | KEY |
@@ -42,9 +43,11 @@
 ### Engine ECU
 | ECU | KEY |
 |--|--|
+| EDC15C2 | 1503 |
 | EDC16C3 | 475A |
 | EDC16C34 | 475A |
 | EDC17C10 | 1905 |
+| EDC17CP11 | 1812 |
 | EDC17C60 | 3102 |
 | DCM3.2 | 1822 |
 | DCM3.4 | 1822 |
@@ -77,6 +80,7 @@
 | MM6LPC | 25FC |
 | MM6KP | 27F9 |
 | J34P | 2605 |
+| CMM | 0510 |
 
 ### Automatic Gearbox ECU
 | ECU | KEY |
@@ -90,8 +94,10 @@
 ### ESP ECU
 | ECU | KEY |
 |--|--|
+| ESPMK100 | 2311 |
 | ESP81 | ABFB |
 | ESP90 | 60A5 |
+| ABS8_BOSCH | FFFF |
 
 ### Power Steering ECU
 | ECU | KEY |
@@ -111,8 +117,7 @@
 | AAS_UDS_G6 | B6F0 |
 | AAS_UDS_G5 | D1F5 |
 | AAS_UDS_G4 | 0000 |
-| AAS_UDS | EFCA |
-| AAS | 0000 |
+| RADAR_AV | EFCA |
 
 ### Amplifier ECU
 | ECU | KEY |
