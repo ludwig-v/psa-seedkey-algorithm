@@ -21,8 +21,9 @@
 | ECU | KEY |
 |--|--|
 | BTA | DC3B |
-| BTA2 | F4F4 |
+| BTA2 | DC3B |
 | BTA3S | DC3B |
+| BTA_CN | F4F4 |
 
 ### Instrument Panel
 | ECU | KEY |
@@ -81,6 +82,24 @@
 | MM6KP | 27F9 |
 | J34P | 2605 |
 | CMM | 0510 |
+| EBB | BB20 |
+
+### Electric Engine ECUs
+| ECU | KEY |
+|--|--|
+| CMM_MG1CS042_PHEV | 2508 |
+| RMCU_PHEV | 0507 |
+| MCU_PHEV | 2104 |
+| OBC_DCDC_PHEV | 0208 |
+| OBC_DCDC_ECMP | 1985 |
+| VCU_EMS8000 | 7002 |
+| TBMU_PHEV | 21B8 |
+
+## Power
+| ECU | KEY |
+|--|--|
+| DMTR_DTC3B | E67E |
+| TBMU | C759 |
 
 ### Automatic Gearbox ECU
 | ECU | KEY |
@@ -90,6 +109,21 @@
 | EAT8 | 4854 |
 | SIM82 | 9227 |
 | GS10 | 03A5 |
+| BVA_EATN8 | F7B9 |
+| BVMP | 2817 |
+| COMELEC2 | 8405 |
+| BVA_AM6_AT6_UDS | 1702 |
+| CFC300P | 2AF5 |
+
+### Tyres
+| ECU | KEY |
+|--|--|
+| DSG_UDS | AC58 |
+
+### Trailer ECU
+| ECU | KEY |
+|--|--|
+| BSG_E | F711 |
 
 ### ESP ECU
 | ECU | KEY |
@@ -106,17 +140,16 @@
 | DAE | BF62 |
 | DAE_BVH2 | 2305 |
 
-## Power
-| ECU | KEY |
-|--|--|
-| DMTR_DTC3B | E67E |
-
 ### Parking ECU
 | ECU | KEY |
 |--|--|
 | AAS_UDS_G6 | B6F0 |
 | AAS_UDS_G5 | D1F5 |
 | AAS_UDS_G4 | 0000 |
+
+### Driving Assistance ECU
+| ECU | KEY |
+|--|--|
 | RADAR_AV | EFCA |
 
 ### Amplifier ECU
