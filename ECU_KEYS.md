@@ -115,7 +115,7 @@
 | BVA_AM6_AT6_UDS | 1702 |
 | CFC300P | 2AF5 |
 
-### Tyres
+### Under Inflation ECU
 | ECU | KEY |
 |--|--|
 | DSG_UDS | AC58 |
@@ -151,6 +151,7 @@
 | ECU | KEY |
 |--|--|
 | RADAR_AV | EFCA |
+| BVN | E0FF |
 
 ### Amplifier ECU
 | ECU | KEY |
