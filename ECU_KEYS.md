@@ -82,6 +82,7 @@
 | MM6KP | 27F9 |
 | J34P | 2605 |
 | CMM | 0510 |
+| CMM_MG1CS042 | 0710 |
 | EBB | BB20 |
 
 ### Electric Engine ECUs
@@ -128,6 +129,7 @@
 ### ESP ECU
 | ECU | KEY |
 |--|--|
+| ESPMK100_UDS | 7884 |
 | ESPMK100 | 2311 |
 | ESP81 | ABFB |
 | ESP90 | 60A5 |
@@ -138,6 +140,7 @@
 |--|--|
 | GEP | 4628 |
 | DAE | BF62 |
+| DAE_UDS | 2105 |
 | DAE_BVH2 | 2305 |
 
 ### Parking ECU
