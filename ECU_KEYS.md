@@ -50,15 +50,15 @@
 | EDC17C10 | 1905 |
 | EDC17CP11 | 1812 |
 | EDC17C60 | 3102 |
-| DCM3.2 | 1822 |
-| DCM3.4 | 1822 |
-| DCM3.5 | 4242 |
-| DCM6.1 | 4742 |
-| DCM6.2 | 4742 |
-| DCM7.1A | 1501 |
-| VD46.1 | 4552 |
+| DCM32 | 1822 |
+| DCM34 | 1822 |
+| DCM35 | 4242 |
+| DCM61 | 4742 |
+| DCM62 | 4742 |
+| CMM_DCM71 | 1501 |
+| VD46 | 4552 |
 | VD46.11 | 31A7 |
-| VD56.1 | 9395 |
+| CMM_VD56 | 9395 |
 | SID803 | D310 |
 | SID804 | 0500 |
 | SID805 | 0500 |
@@ -67,10 +67,10 @@
 | ME745 | F8F3 |
 | ME747 | E45F |
 | ME749 | A83F |
-| MED17.4 | 1605 |
-| MEV17.4 | 1974 |
-| MEVD17.4.4 | BBFF |
-| MEVD17.4.2 | 0610 |
+| MED17_4 | 1605 |
+| MEV17_4 | 1974 |
+| MEVD17_4_4 | BBFF |
+| MEVD17_4_2 | 0610 |
 | IAW6LP | 2FFE |
 | IAW6LPA | 23FE |
 | IAW6LP1 | 26FA |
@@ -84,6 +84,12 @@
 | CMM | 0510 |
 | CMM_MG1CS042 | 0710 |
 | EBB | BB20 |
+| ME745_EC5 | F228 |
+
+### Diesel ECU
+| ECU | KEY |
+|--|--|
+| SCR | 2802 |
 
 ### Electric Engine ECUs
 | ECU | KEY |
@@ -107,7 +113,7 @@
 |--|--|
 | AT6 | 8086 |
 | AL4_AT8 | 8962 |
-| EAT8 | 4854 |
+| BVA_AXN8 | 4854 |
 | SIM82 | 9227 |
 | GS10 | 03A5 |
 | BVA_EATN8 | F7B9 |
@@ -115,6 +121,7 @@
 | COMELEC2 | 8405 |
 | BVA_AM6_AT6_UDS | 1702 |
 | CFC300P | 2AF5 |
+| MAPS_UDS | 201F |
 
 ### Under Inflation ECU
 | ECU | KEY |
@@ -125,6 +132,11 @@
 | ECU | KEY |
 |--|--|
 | BSG_E | F711 |
+
+### Airbag ECU
+| ECU | KEY |
+|--|--|
+| RBG_SPEED_UDS | B8D6 |
 
 ### ESP ECU
 | ECU | KEY |
@@ -154,7 +166,13 @@
 | ECU | KEY |
 |--|--|
 | RADAR_AV | EFCA |
+| RADAR_AV_4 | EFCA |
 | BVN | E0FF |
+
+### Lights ECU
+| ECU | KEY |
+|--|--|
+| BEMP_UDS | EAD7 |
 
 ### Amplifier ECU
 | ECU | KEY |
