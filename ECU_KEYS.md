@@ -11,6 +11,7 @@
 | ECU | KEY |
 |--|--|
 | EMF_DGT_LVDS_BD | 16FB |
+| EMF_DGT_UDS_GP | FD69 |
 
 ### Multifunction Camera
 | ECU | KEY |
@@ -21,7 +22,7 @@
 | ECU | KEY |
 |--|--|
 | BTA | DC3B |
-| BTA2 | DC3B |
+| BTA2 | F4F4 |
 | BTA3S | DC3B |
 | BTA_CN | F4F4 |
 
