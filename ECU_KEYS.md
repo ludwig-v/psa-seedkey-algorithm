@@ -158,6 +158,7 @@
 | DAE | BF62 |
 | DAE_UDS | 2105 |
 | DAE_BVH2 | 2305 |
+| DAE_UDS2 | 2807 |
 
 ### Parking ECU
 | ECU | KEY |
