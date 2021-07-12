@@ -34,6 +34,11 @@
 | COMBINE_UDS | 50A6 |
 | COMBINE_UDS_EV | A13C |
 
+### Visiopark 2
+| ECU | KEY |
+|--|--|
+| AVP | F2E1 |
+
 ### BSI
 | ECU | KEY |
 |--|--|
