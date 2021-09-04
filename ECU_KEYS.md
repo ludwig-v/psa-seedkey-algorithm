@@ -43,7 +43,7 @@
 | ECU | KEY |
 |--|--|
 | BSI_2010_EV | B4E0 |
-| BSI_2010 | E4D8 |
+| BSI_2010 | E4D8 / C318 |
 | BSI_EV | B001 |
 | BSI | B2B2 |
 
