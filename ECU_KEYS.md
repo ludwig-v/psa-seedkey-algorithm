@@ -5,6 +5,7 @@
 |--|--|
 | NAC | D91C |
 | RCC | F107 |
+| RD6 | BF13 |
 | SMEG/RNEG | ADDA |
 
 ### Screen
