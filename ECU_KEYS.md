@@ -23,7 +23,7 @@
 | ECU | KEY |
 |--|--|
 | BTA | DC3B |
-| BTA2 | F4F4 |
+| BTA2 | DC3B |
 | BTA3S | DC3B |
 | BTA_CN | F4F4 |
 
@@ -143,10 +143,17 @@
 |--|--|
 | BSG_E | F711 |
 
+### ADML ECU
+| ECU | KEY |
+|--|--|
+| SDCM | A8EE |
+
 ### Airbag ECU
 | ECU | KEY |
 |--|--|
-| RBG_SPEED_UDS | B8D6 |
+| SAC_AUTOLIV | B2DF |
+| RBG_UDS | CB2D |
+| RBG_SPEED_UDS | E55A |
 
 ### ESP ECU
 | ECU | KEY |
