@@ -13,6 +13,7 @@
 |--|--|
 | EMF_DGT_LVDS_BD | 16FB |
 | EMF_DGT_UDS_GP | FD69 |
+| EMF_C | F6C4 |
 
 ### Multifunction Camera
 | ECU | KEY |
