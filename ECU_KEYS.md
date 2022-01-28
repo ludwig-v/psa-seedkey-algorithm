@@ -9,14 +9,14 @@
 | SMEG/RNEG | ADDA |
 | IVI_HEAD_UNIT | F4AA |
 
-### Screen
+### Screen (EMF)
 | ECU | KEY |
 |--|--|
 | EMF_DGT_LVDS_BD | 16FB |
 | EMF_DGT_UDS_GP | FD69 |
 | EMF_C | F6C4 |
 
-### Multifunction Camera
+### Multifunction Camera (CVM)
 | ECU | KEY |
 |--|--|
 | CVM | E2E5 |
@@ -30,7 +30,7 @@
 | BTA_CN | F4F4 |
 | BSRF | B7A9 |
 
-### Instrument Panel
+### Instrument Panel (COMBINE)
 | ECU | KEY |
 |--|--|
 | MATT | ECEC |
@@ -38,12 +38,12 @@
 | COMBINE_UDS | 50A6 |
 | COMBINE_UDS_EV | A13C |
 
-### Visiopark 2
+### Visiopark 2 (VP2)
 | ECU | KEY |
 |--|--|
 | AVP | F2E1 |
 
-### BSI
+### BSI (BMF)
 | ECU | KEY |
 |--|--|
 | BSI_2010_EV | B4E0 |
@@ -136,12 +136,12 @@
 | CFC300P | 2AF5 |
 | MAPS_UDS | 201F |
 
-### Under Inflation ECU
+### Under Inflation ECU (DSG)
 | ECU | KEY |
 |--|--|
 | DSG_UDS | AC58 |
 
-### Trailer ECU
+### Trailer ECU (BSR)
 | ECU | KEY |
 |--|--|
 | BSG_E | F711 |
@@ -151,7 +151,7 @@
 |--|--|
 | SDCM | A8EE |
 
-### Airbag ECU
+### Airbag ECU (RBG)
 | ECU | KEY |
 |--|--|
 | SAC_AUTOLIV | B2DF |
@@ -176,7 +176,7 @@
 | DAE_BVH2 | 2305 |
 | DAE_UDS2 | 2807 |
 
-### Parking ECU
+### Parking ECU (AAS)
 | ECU | KEY |
 |--|--|
 | AAS_UDS_G6 | B6F0 |
@@ -195,7 +195,7 @@
 |--|--|
 | BEMP_UDS | EAD7 |
 
-### Amplifier ECU
+### Amplifier ECU (AMPLI)
 | ECU | KEY |
 |--|--|
 | AMPLI_AUDIO | A7D8 |
