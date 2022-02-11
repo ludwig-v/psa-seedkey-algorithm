@@ -12,7 +12,7 @@
 ### Screen (EMF)
 | ECU | KEY |
 |--|--|
-| EMF_DGT_LVDS_BD | 16FB |
+| EMF_DGT_LVDS_BD | DF69 |
 | EMF_DGT_UDS_GP | FD69 |
 | EMF_C | F6C4 |
 
@@ -35,8 +35,14 @@
 |--|--|
 | MATT | ECEC |
 | CIROCCO | FAFA |
+| COMBINE_UDS (N2) | DA33 |
 | COMBINE_UDS | 50A6 |
 | COMBINE_UDS_EV | A13C |
+
+### High Head Vision (VTH)
+| ECU | KEY |
+|--|--|
+| VTH_UDS | F7F7 |
 
 ### Visiopark 2 (VP2)
 | ECU | KEY |
@@ -47,7 +53,8 @@
 | ECU | KEY |
 |--|--|
 | BSI_2010_EV | B4E0 |
-| BSI_2010 | E4D8 / C318 |
+| BSI_2010 (VALEO) | E4D8 |
+| BSI_2010 (CONTINENTAL) | C318 |
 | BSI_EV | B001 |
 | BSI | B2B2 |
 
