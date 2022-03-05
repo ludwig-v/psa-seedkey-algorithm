@@ -52,6 +52,7 @@
 ### BSI (BMF)
 | ECU | KEY |
 |--|--|
+| VSM | C6E2 |
 | BSI_2010_EV | B4E0 |
 | BSI_2010 (VALEO) | E4D8 |
 | BSI_2010 (CONTINENTAL) | C318 |
