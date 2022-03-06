@@ -158,6 +158,7 @@
 | ECU | KEY |
 |--|--|
 | BSG_E | F711 |
+| BSG_2010_RQ | CA39 |
 
 ### ADML ECU
 | ECU | KEY |
