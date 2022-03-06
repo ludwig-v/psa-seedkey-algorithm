@@ -12,7 +12,7 @@
 ### Screen (EMF)
 | ECU | KEY |
 |--|--|
-| EMF_DGT_LVDS_BD | DF69 |
+| EMF_DGT_LVDS_BD | DF69 / CF52 |
 | EMF_DGT_UDS_GP | FD69 |
 | EMF_C | F6C4 |
 
@@ -148,6 +148,11 @@
 | ECU | KEY |
 |--|--|
 | DSG_UDS | AC58 |
+
+### Pedestrian horn (AVAS)
+| ECU | KEY |
+|--|--|
+| AVAS | C504 |
 
 ### Trailer ECU (BSR)
 | ECU | KEY |
