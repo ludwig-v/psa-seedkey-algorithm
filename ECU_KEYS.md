@@ -200,6 +200,7 @@
 ### Driving Assistance ECU
 | ECU | KEY |
 |--|--|
+| FRONT_RADAR_5 | BDE3 |
 | RADAR_AV | EFCA |
 | RADAR_AV_4 | EFCA |
 | BVN | E0FF |
