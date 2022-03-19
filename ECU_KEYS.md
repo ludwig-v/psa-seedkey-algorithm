@@ -187,6 +187,7 @@
 | GEP | 4628 |
 | DAE | BF62 |
 | DAE_UDS | 2105 |
+| DAE_UDS (P5) | 2707 |
 | DAE_BVH2 | 2305 |
 | DAE_UDS2 | 2807 |
 
