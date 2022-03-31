@@ -12,7 +12,7 @@
 ### Screen (EMF)
 | ECU | KEY |
 |--|--|
-| EMF_DGT_LVDS_BD | DF69 / CF52 |
+| EMF_DGT_LVDS_BD | 16FB / DF69 / CF52 |
 | EMF_DGT_UDS_GP | FD69 |
 | EMF_C | F6C4 |
 
@@ -202,7 +202,6 @@
 | ECU | KEY |
 |--|--|
 | FRONT_RADAR_5 | BDE3 |
-| RADAR_AV | EFCA |
 | RADAR_AV_4 | EFCA |
 | BVN | E0FF |
 
