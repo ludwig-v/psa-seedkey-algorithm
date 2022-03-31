@@ -19,6 +19,7 @@
 ### Multifunction Camera (CVM)
 | ECU | KEY |
 |--|--|
+| FRONT_CAMERA | B530 |
 | CVM | E2E5 |
 
 ### Autonomous Telematic Unit (MDS)
