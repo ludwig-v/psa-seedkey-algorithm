@@ -8,6 +8,7 @@
 | RD6 | BF13 |
 | SMEG/RNEG | ADDA |
 | IVI_HEAD_UNIT | F4AA |
+| AIO_CRONY | DFD7 |
 
 ### Screen (EMF)
 | ECU | KEY |
