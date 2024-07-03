@@ -180,7 +180,7 @@
 | ESPMK100_UDS | 7884 |
 | ESPMK100 | 2311 |
 | ESP81 | ABFB |
-| ESP90 | 60A5 |
+| ESP90 | 60A5 / BC93 |
 | ABS8_BOSCH | FFFF |
 
 ### Power Steering ECU
