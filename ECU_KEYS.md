@@ -167,6 +167,11 @@
 | BSG_E | F711 |
 | BSG_2010_RQ | CA39 |
 
+### Trunk motor ECU (BCM)
+| ECU | KEY |
+|--|--|
+| BCM | F18F |
+
 ### ADML ECU
 | ECU | KEY |
 |--|--|
@@ -207,11 +212,6 @@
 | AAS_UDS_G6 | B6F0 |
 | AAS_UDS_G5 | D1F5 |
 | AAS_UDS_G4 | 0000 |
-
-# Trailer ECU (BCM)
-| ECU | KEY |
-|--|--|
-| BCM | F18F |
 
 ### Driving Assistance ECU
 | ECU | KEY |
