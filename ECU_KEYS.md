@@ -63,7 +63,8 @@
 | BSI_2010_EV | B4E0 |
 | BSI_2010 (VALEO) | E4D8 |
 | BSI_2010 (CONTINENTAL) | C318 |
-| BSI_EV | B001 / B201 |
+| BSI_EV (DELPHI) | B201 |
+| BSI_EV | B001 |
 | BSI | B2B2 |
 
 ### Engine ECU
