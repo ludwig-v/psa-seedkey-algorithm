@@ -23,11 +23,16 @@
 | FRONT_CAMERA | B530 |
 | CVM | E2E5 |
 
+### Rain & Light sensor ECUs
+| ECU | KEY |
+|--|--|
+| CDPL | EE3E |
+
 ### Autonomous Telematic Unit (MDS)
 | ECU | KEY |
 |--|--|
 | BTA | DC3B |
-| BTA2 | DC3B |
+| BTA2 | DC3B / F4F4 |
 | BTA3S | DC3B |
 | BTA_CN | F4F4 |
 | BSRF | B7A9 |
@@ -58,7 +63,7 @@
 | BSI_2010_EV | B4E0 |
 | BSI_2010 (VALEO) | E4D8 |
 | BSI_2010 (CONTINENTAL) | C318 |
-| BSI_EV | B001 |
+| BSI_EV | B001 / B201 |
 | BSI | B2B2 |
 
 ### Engine ECU
@@ -182,6 +187,8 @@
 | ESP81 | ABFB |
 | ESP90 | 60A5 / BC93 |
 | ABS8_BOSCH | FFFF |
+| UESC_EMP2V3_PHEV (P5) | 4446 |
+| UESC_EMP2V4 (D85) | 4446 |
 
 ### Power Steering ECU
 | ECU | KEY |
@@ -189,9 +196,10 @@
 | GEP | 4628 |
 | DAE | BF62 |
 | DAE_UDS | 2105 |
-| DAE_UDS (P5) | 2707 |
 | DAE_BVH2 | 2305 |
 | DAE_UDS2 | 2807 |
+| DAE_UDS2 (P5 / EMP2V3) | 2707 |
+| DAE_UDS2 (D85 / EMP2V4) | 0310 |
 
 ### Parking ECU (AAS)
 | ECU | KEY |
@@ -200,9 +208,15 @@
 | AAS_UDS_G5 | D1F5 |
 | AAS_UDS_G4 | 0000 |
 
+# Trailer ECU (BCM)
+| ECU | KEY |
+|--|--|
+| BCM | F18F |
+
 ### Driving Assistance ECU
 | ECU | KEY |
 |--|--|
+| CORNER_RADAR | B77B |
 | FRONT_RADAR_5 | BDE3 |
 | RADAR_AV_4 | EFCA |
 | BVN | E0FF |
