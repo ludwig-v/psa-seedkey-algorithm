@@ -1,5 +1,4 @@
 """
-Copyright 2021, Ludwig V. <https://github.com/ludwig-v>
 Original algorithm by Wouter Bokslag & Jason F. <https://github.com/prototux>
 
 This program is free software: you can redistribute it and/or modify
